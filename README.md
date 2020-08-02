@@ -1,3 +1,0 @@
-hoge
-# git-practice
-hoge
